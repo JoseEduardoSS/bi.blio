@@ -1,0 +1,43 @@
+/* TABLE */
+
+
+
+/* TABLE */
+
+/* REGISTER */
+
+#register {
+    align-items: center;
+    margin-top: 2rem;
+    height: min-content;
+}
+
+#register .register-text, .form-select {
+    width: 400px;
+    margin: 1.7rem;
+    text-align-last: center;
+}
+
+#register option {
+    text-align: center;
+}
+
+#register .year {
+    -webkit-appearance: none
+}
+
+#register .imgBook {
+    display: none;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+/* REGISTER */
+
+
+
+
